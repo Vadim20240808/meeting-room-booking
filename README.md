@@ -130,4 +130,4 @@ python -m pytest -v
 ## Демонстрация в Google Colab
 Нажмите на кнопку, чтобы запустить интерактивный ноутбук с работающим сервисом прямо в браузере.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/Vadim20240808/666a6ee329c09232056923a1dbbd87af)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/Vadim20240808/36f597148fe051632ca4c7736556d34b)
