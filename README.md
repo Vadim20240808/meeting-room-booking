@@ -126,3 +126,8 @@ python -m pytest -v
 - Pydantic v2
 - SQLite / PostgreSQL
 - Docker
+
+## Демонстрация в Google Colab
+Нажмите на кнопку, чтобы запустить интерактивный ноутбук с работающим сервисом прямо в браузере.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/https://gist.github.com/Vadim20240808/64054cc202d8c19ca4a1568d28f966dd)
